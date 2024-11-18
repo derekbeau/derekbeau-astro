@@ -1,13 +1,14 @@
-# Aria Template
+# Derek Beau's Personal Site
 
-This is a personal blog, portfolio, or blog template created for [Astro](https://astro.build).
+A personal site built with [Astro](https://astro.build) where I share my projects, interests, and ideas. This site serves as both a blog and portfolio, documenting my journey in:
 
-Astro port of [aria](https://github.com/static-templates/aria).
+- Marketing and code integration
+- Web and mobile development with React
+- Marketing technology and automation
+- AI tools exploration
+- Blockchain and web3 development
+- Indie hacking and solopreneurship insights
 
-![Aria Template Cover Photo](https://github.com/ccbikai/astro-aria/blob/main/public/assets/images/cover.png?raw=true)
+Based in Austin, TX, I combine over two decades of paid traffic experience with three decades of programming to solve interesting problems at the intersection of technology and business.
 
-You can install this theme with the [Astro](https://astro.build) command like so:
-
-```js
-npm create astro@latest -- --template ccbikai/astro-aria
-```
+Feel free to connect with me on [X](http://x.com/derekbeau) or [LinkedIn](https://www.linkedin.com/in/derekbeau/).
